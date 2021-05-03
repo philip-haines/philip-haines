@@ -1,5 +1,8 @@
-### Hi thre, I'm Phil 👋
-##### I am a Fullstack Software Engineer and UX Designer with a background in fine dinning
+![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/76078305/116914869-8d94ff00-ac08-11eb-8754-3a5b9a6456b6.png)
+
+### Hi thre 👋
+My name is Phil Haines and I am a Fullstack Software Engineer and UX Designer. After spending almost a decade in fine dining, I hung up my apron and dove into the world of tech. My philosophy for programming and design come from my passion of creating positive user expereinces, and problem solving.
+<br />
 <a href="https://www.linkedin.com/in/philip-haines/">
   <img align="left" alt="Phil Haines | LinkedIn" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
