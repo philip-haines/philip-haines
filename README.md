@@ -1,5 +1,5 @@
 ### Hi thre, I'm Phil 👋
-##### I am a Fullstack Software Engineer and UX designer with a passion for fine dinning
+##### I am a Fullstack Software Engineer and UX Designer with a background in fine dinning
 <a href="https://www.linkedin.com/in/philip-haines/">
   <img align="left" alt="Phil Haines | LinkedIn" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
