@@ -11,19 +11,19 @@
 
 <br />
 <br />
-👨🏻‍💼 🖥  I’m currently working on <a href="https://github.com/philip-haines/school-progress-tracker-frontend">Busy Bodies</a> and <a href="https://github.com/philip-haines/up-fur-adoption">Up-Fur-Adoption</a>.
+👨🏻‍💼 🖥   I’m currently working on <a href="https://github.com/philip-haines/school-progress-tracker-frontend">Busy Bodies</a> and <a href="https://github.com/philip-haines/up-fur-adoption">Up-Fur-Adoption</a>.
 <br/>
-🌱   I’m currently learning Next.js, TypeScript, and Apollo Client for React.
+🌱    I’m currently learning Next.js, TypeScript, and Apollo Client for React.
 <br/>
-💡    I'm looking forward to learning Angular and Flutter.
+💡     I'm looking forward to learning Angular and Flutter.
 <br/>
-🛠    I’m looking to collaborate on <a href="https://github.com/philip-haines/up-fur-adoption">Up-Fur-Adoption</a>
+🛠     I’m looking to collaborate on <a href="https://github.com/philip-haines/up-fur-adoption">Up-Fur-Adoption</a>
 <br/>
-🤔   I’m looking for help with complex data structures and caching in Apollo client.
+🤔    I’m looking for help with complex data structures and caching in Apollo client.
 <br/>
-😄   Pronouns: he/him
+😄    Pronouns: he/him
 <br/>
-⚡   Fun fact: I've worked at 3 different Michelin Starred restaurants 👨🏻‍🍳.
+⚡    Fun fact: I've worked at 3 different Michelin Starred restaurants 👨🏻‍🍳.
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
