@@ -35,11 +35,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mongodb/mongodb-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/nodejs/nodejs-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/css3/css3-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/graphql.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/css3/css3-plain.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://cdn-images-1.medium.com/max/228/1*13pvYrcH_xm6NPPb2PRYtw@2x.png"></code> 
 <code><img height="20" src="https://rosenfeldmedia.com/enterprise2020/wp-content/uploads/sites/4/2020/08/InVision-App-logo.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/illustrator/illustrator-plain.svg"></code> 
